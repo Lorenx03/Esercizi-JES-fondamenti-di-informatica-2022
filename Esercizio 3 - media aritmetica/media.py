@@ -10,7 +10,7 @@ def VolumeCono(r,h):
     print ("Il volume del cono è:", V , "(unità di misura)")
 
 
-media(10,20,30)
+media(10,20,31)
 VolumeCono(20,30)
 
 
