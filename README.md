@@ -1,10 +1,7 @@
-# Esercizi-JES 
-
-### 2022
-> fondamenti di informatica 
+# Esercizi-JES    2022
 
 > Esercizi di fondamenti di informatica svolti.
 
-> #### Lorenzo Franceschelli
+- ### Lorenzo Franceschelli
 
-## Università di Tor Vergata
+#### Università di Tor Vergata
