@@ -2,6 +2,4 @@
 
 > Esercizi di fondamenti di informatica svolti.
 
-- ### Lorenzo Franceschelli
-
-#### Università di Tor Vergata
+> ### Università di Tor Vergata
