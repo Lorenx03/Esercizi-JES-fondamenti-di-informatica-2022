@@ -2,6 +2,6 @@
 
 Esercizi assegnati di fondamenti di informatica svolti
 
-##Università di Tor Vergata - 2022
+## Università di Tor Vergata - 2022
 
 Lorenzo Franceschelli
