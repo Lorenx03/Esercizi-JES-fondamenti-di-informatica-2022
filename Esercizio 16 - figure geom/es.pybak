@@ -1,0 +1,11 @@
+width = 200
+height = 200
+pic = makeEmptyPicture(width, height)
+
+pixs = getPixels(pic)
+white = makeColor(255,255,255)
+
+for i in range(0,len(pixs)):
+    setColor(pixs[i], white)
+
+show(pic)

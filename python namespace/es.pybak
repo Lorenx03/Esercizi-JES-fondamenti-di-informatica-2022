@@ -1,0 +1,29 @@
+a = 10 
+
+def func_1(): 
+
+   print a 
+
+def func_2(x): 
+
+   global a 
+
+   a=2 
+
+   def func_3(x): 
+
+     print a 
+
+     a=4 
+
+     y=x+5 
+
+   func_1() 
+
+   y=x+10 
+
+   func_3(7) 
+
+func_2(7) 
+
+func_3(7)
