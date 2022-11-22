@@ -1,4 +1,4 @@
-# Esercizi-JES---fondamenti-di-informatica---2022
+# Esercizi-JES fondamenti-di-informatica 2022
 
 Esercizi assegnati di fondamenti di informatica svolti
 
