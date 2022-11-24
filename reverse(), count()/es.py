@@ -1,8 +1,8 @@
 s = [0,1,2,3,1,5,6,7,1,9]
 
 
-def myReverse(S):
-#@param S: string; stringa di input
+def myReverse(L):
+#@param L: list; lista input
     reverse = []
 
     for i in range(len(S)-1, -1, -1):
@@ -11,8 +11,8 @@ def myReverse(S):
     return reverse
 
 
-def myCount(S, k):
-#@param S: string; stringa di input
+def myCount(L, k):
+#@param L: list; lista input
     i = 0
     for c in S:
         if c == k:
