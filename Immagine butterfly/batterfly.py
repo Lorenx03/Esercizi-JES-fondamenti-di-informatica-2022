@@ -11,6 +11,7 @@ def batterfly(pic):
 # @param pic: picture; immagine di input
 
     for y in range(0, int(halfHeight)):
+        repaint(pic)
         for x in range(int(halfWidth), width):
             pixTopLeft = getPixel(pic, x, y)
             pixBottomRight = getPixel(pic, x-halfWidth, y+halfHeight)
@@ -21,7 +22,7 @@ def batterfly(pic):
             setColor(pixBottomRight, pixTopLeftColor)
             setColor(pixTopLeft, pixBottomRightColor)
 
-            repaint(pic)
+            
 
             
 batterfly(pict)
