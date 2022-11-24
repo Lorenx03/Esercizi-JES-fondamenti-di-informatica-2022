@@ -6,7 +6,7 @@ def myReverse(S):
     reverse = []
 
     for i in range(len(S)-1, -1, -1):
-        reverse = reverse + [S[i]]
+        reverse.append(S[i])
 
     return reverse
 
